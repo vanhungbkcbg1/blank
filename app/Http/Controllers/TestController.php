@@ -14,4 +14,8 @@ class TestController extends BaseController
     public function sdfdsfds_dfdsf_dfdsfds(){
 
     }
+
+    public function sfd_dd_d(){
+
+    }
 }
