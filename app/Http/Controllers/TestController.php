@@ -17,5 +17,10 @@ class TestController extends BaseController
 
     public function sfd_dd_d(){
 
+        $name="hungnv";
+        $name="hungnv";
+        $name="hungnv";
+        $name="hungnv";
+        $name="hungnv";
     }
 }
