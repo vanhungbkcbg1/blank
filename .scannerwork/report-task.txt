@@ -1,0 +1,6 @@
+projectKey=demo-app
+serverUrl=http://52.69.102.141
+serverVersion=7.5.0.20543
+dashboardUrl=http://52.69.102.141/dashboard?id=demo-app
+ceTaskId=AW8ue68GyqP4dTioYcau
+ceTaskUrl=http://52.69.102.141/api/ce/task?id=AW8ue68GyqP4dTioYcau
