@@ -80,4 +80,5 @@ class CategoryRepositoryTest extends TestCase
         $this->assertDatabaseMissing("categories",$category->toArray());
     }
 
+
 }
